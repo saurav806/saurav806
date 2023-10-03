@@ -34,4 +34,4 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=saurav806&" alt="saurav806" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurav806&show_icons=true&locale=en&layout=compact" alt="saurav806" /></p>
 
-
+[![An image of @saurav806's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saurav806)](https://holopin.io/@saurav806)
