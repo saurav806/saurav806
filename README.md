@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 💬 Ask me about **Data Structure, C++, OOPS**
+- 💬 Ask me about **Data Structure, C++, OOPS, OS**
 
 - 📫 How to reach me **sauravkr806@gmail.com**
 
